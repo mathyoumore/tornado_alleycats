@@ -1,5 +1,6 @@
 # Team Tornado Alleycats
 * Nirdesh Bhandari
+* Eric Britt
 * Maksim Kosmakov
 * Matt Mohr
 * Erlang Surya
