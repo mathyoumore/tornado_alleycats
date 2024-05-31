@@ -1,5 +1,5 @@
 # Tornado Alley is moving ESE but appears to be diminishing as a lethal risk
-*Nirdesh Bhandari, Maksim Kosmakov, Matt Mohr, Erlang Surya, Tejaswi Tripathi*
+*Eric Britt, Nirdesh Bhandari, Maksim Kosmakov, Matt Mohr, Erlang Surya, Tejaswi Tripathi*
 
 ### Tornado Alley is a region in the United States that sees more tornadoes per year than any other part of the world. 
 The unique geography of the United States - from its proximity the jet stream, multiple sources of ocean temperature air, and vast valley in the middle of the country - create the ideal breeding ground for tornadoes and other extreme weather events. Tornado Alley refers to the Great Plains region of the US (Iowa, Nebraska, Kansas, Oklahoma, north Texas, etc) but the greatest clustering of tornadoes has seasonality as well, moving southeast in the colder seasons and northwest as the weather warms.<sup>[1]</sup> 
